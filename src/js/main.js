@@ -148,7 +148,7 @@ i18next.use(window.i18nextBrowserLanguageDetector).init(
             "Mes pradėjome kaip Hack-The-Crisis dalyviai, lauždami krizės kodą sukūrėme ir prisistatymą, peržiūrėkite video!",
           cta_title: "Domina? Registruokitės",
           cta_text:
-            "Aplikacija šiuo metu kuriama, ir norintiems verslams siūlome kurtis profilius! Užsiregistruokite į mūsų susisiekimo paštą ir būkite pirmieji produkto naudotojai.",
+            "Aplikacija šiuo metu kuriama, ir norintiems verslams siūlome kurtis profilius!",
           sign_up: "Registruotis",
           footer_copyright: "&copy; 2020 pard",
           coming_soon: "Jau greitai",
